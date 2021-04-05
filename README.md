@@ -26,4 +26,5 @@ No final de 2020, por incentivo de pessoas queridas e por ver a movimentação n
 ***
 
 ![Karina GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinafukuda&show_icons=true)
+***
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karinafukuda&hide=scss&layout=compact&theme=light&title_color=5f3594)
