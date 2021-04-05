@@ -7,6 +7,7 @@
 
 
 ### Sobre mim
+<br/>
 Sou a Karina, tenho 31 anos, sou estudante de desenvolvimento de jogos digitais pela Fatec SP.
 Formada em marketing, atuei por 12 anos na área comercial com vendas e gestão de pessoas.
 No final de 2020, por incentivo de pessoas queridas e por ver a movimentação na área de TI, resolvi mudar e descobrir esse novo mundo. Pretendo me aprofundar em front-end !
@@ -17,7 +18,7 @@ No final de 2020, por incentivo de pessoas queridas e por ver a movimentação n
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/csst.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
