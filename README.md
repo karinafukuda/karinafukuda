@@ -9,7 +9,7 @@
 
 ### Sobre mim
 <br/>
-Sou a Karina, tenho 31 anos, sou estudante de desenvolvimento de jogos digitais pela Fatec SP.
+Sou a Karina, tenho 31 anos, sou estudante de analise e desenvolvimento de sistemas.
 Formada em marketing, atuei por 12 anos na área comercial com vendas e gestão de pessoas.
 No final de 2020, por incentivo de pessoas queridas e por ver a movimentação na área de TI, resolvi mudar e descobrir esse novo mundo. Pretendo me aprofundar em front-end !
 
