@@ -13,6 +13,8 @@ Sou a Karina, tenho 31 anos, sou estudante de análise e desenvolvimento de sist
 Formada em marketing, atuei por 12 anos na área comercial com vendas e gestão de pessoas.
 No final de 2020, por incentivo de pessoas queridas e por ver a movimentação na área de TI, resolvi mudar e descobrir esse novo mundo. Pretendo me aprofundar em front-end !
 
+# About Me 
+I'm Karina, I'm 31 years old, I'm a student of systems analysis and development. Graduated in marketing, I worked for 12 years in the commercial area with sales and people management. At the end of 2020, due to the encouragement of loved ones and seeing the movement in the IT area, I decided to change and discover this new world. I intend to delve into the front-end!  
 ***
 
 **Linguagens e Tecnologias**
