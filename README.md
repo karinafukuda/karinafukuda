@@ -17,7 +17,7 @@ No final de 2020, por incentivo de pessoas queridas e por ver a movimentação n
 I'm Karina, I'm 31 years old, I'm a student of systems analysis and development. Graduated in marketing, I worked for 12 years in the commercial area with sales and people management. At the end of 2020, due to the encouragement of loved ones and seeing the movement in the IT area, I decided to change and discover this new world. I intend to delve into the front-end!  
 ***
 
-**Linguagens e Tecnologias**
+## Linguagens e Tecnologias
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
