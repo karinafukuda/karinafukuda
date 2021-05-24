@@ -1,9 +1,9 @@
 ### Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="25px">
 <a target="_blank" href="https://www.linkedin.com/in/karina-r-859339bb/">
-<img align="left" alt="LinkdeIN" max-width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="LinkdeIN" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="mailto: karinasrochaeng@gmail.com">
-<img align="left" alt="Gmail" max-width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<img align="left" alt="Gmail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 <br/>
 
 
@@ -24,8 +24,7 @@ I'm Karina, I'm 31 years old, I'm a student of systems analysis and development.
 <code><img height="20" max-width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" max-width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" max-width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
-
+   
 ***
 
 ![Karina GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinafukuda&show_icons=true)
