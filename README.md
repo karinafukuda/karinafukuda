@@ -37,7 +37,7 @@
 
 <div>
    <a href="https://www.linkedin.com/in/karina-f-859339bb/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="malito: karinarfukuda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+   <a href="malito:karinarfukuda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
    <a href="https://discord.gg/3ceJgTuh" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/karina_fukuda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    <img height="25" width="130" src="https://komarev.com/ghpvc/?username=karinafukuda&color=green" alt="karinafukuda" /> 
