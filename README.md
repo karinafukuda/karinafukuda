@@ -1,33 +1,43 @@
-### Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="25px">
-<a target="_blank" href="https://www.linkedin.com/in/karina-r-859339bb/">
-<img align="left" alt="LinkdeIN" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="mailto: karinasrochaeng@gmail.com">
-<img align="left" alt="Gmail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-<br/>
 
+## Olá ! Sou a Karina Fukuda 👩‍💻
 
-## Sobre mim
-<br/>
-Sou a Karina, tenho 31 anos, sou estudante de análise e desenvolvimento de sistemas.
-Formada em marketing, atuei por 12 anos na área comercial com vendas e gestão de pessoas.
-No final de 2020, por incentivo de pessoas queridas e por ver a movimentação na área de TI, resolvi mudar e descobrir esse novo mundo. Pretendo me aprofundar em front-end !
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karinafukuda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinafukuda&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
+</div>
+<div style="display: inline_block"><br>
+   <p> Estudando : </p>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
+</div> 
+<div style="display: inline_block"><br>
+   <p> Experiência básica em : </p>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
+   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
+   <img  height="200" width="300" align="right" src="https://github.com/karinafukuda/imagens_projetos/blob/main/tumblr_nobara.gif"/>
+</div> 
 
-### About Me 
-I'm Karina, I'm 31 years old, I'm a student of systems analysis and development. Graduated in marketing, I worked for 12 years in the commercial area with sales and people management. At the end of 2020, due to the encouragement of loved ones and seeing the movement in the IT area, I decided to change and discover this new world. I intend to delve into the front-end!  
-***
+##
 
-## Linguagens e Tecnologias
-
-<code><img height="40" max-width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" max-width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" max-width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" max-width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" max-width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" max-width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<div>
+   <a href="https://www.linkedin.com/in/karina-f-859339bb/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> *
+   <a href="malito: karinarfukuda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> *
+   <a href="https://discord.gg/3ceJgTuh" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> *
+    <a href="https://www.instagram.com/karina_fukuda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> *
+   <img height="25" width="130" src="https://komarev.com/ghpvc/?username=karinafukuda&color=green" alt="karinafukuda" /> 
    
-***
+  </div>
 
-![Karina GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinafukuda&show_icons=true)
-***
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karinafukuda&hide=scss&layout=compact&theme=light&title_color=5f3594)
+ 
+
