@@ -1,6 +1,8 @@
 
 ## Bem-vindx! 
 
+### Sobre mim: 
+
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/student-female.png"/>__Estudante em Análise e Desenvolvimento de Sistemas && Projetos de Aplicativos Móveis Multiplataforma </p>
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/smart-home-connection.png"/>__ABC Paulista | Brasil </p>
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/goal.png"/>__Focada na trilha Front-end</p>
@@ -48,7 +50,11 @@
    <a href="https://discord.gg/3ceJgTuh" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/karina_fukuda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    <img height="25" width="130" src="https://komarev.com/ghpvc/?username=karinafukuda&color=green" alt="karinafukuda" /> 
-   
+ 
+ ##
+ 
+   <em>"Lutando sempre contra a imposição da vida, pois de todos os lugares que me disseram que eu não chegaria, eu cheguei lá. E estou sempre seguindo em frente!"</em>
+
   </div>
 
  
