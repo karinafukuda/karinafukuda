@@ -1,5 +1,5 @@
 
-### Olá ! Sou a Karina Fukuda 
+## Bem-vindx! 
 
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/student-female.png"/>__Estudante em Análise e Desenvolvimento de Sistemas && Projetos de Aplicativos Móveis Multiplataforma </p>
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/smart-home-connection.png"/>__ABC Paulista | Brasil </p>
