@@ -9,27 +9,28 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karinafukuda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinafukuda&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
 </div>
+
 <div style="display: inline_block"><br>
    <p> Praticando : </p>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
+   <img align="center" alt="logo javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+   <img align="center" alt="logo typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+   <img align="center" alt="logo html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
+   <img align="center" alt="logo css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+   <img align="center" alt="logo react.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+   <img align="center" alt="logo vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg"/>
+   <img align="center" alt="logo node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+   <img align="center" alt="logo postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
+   <img align="center" alt="logo git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
   
 </div> 
 <div style="display: inline_block"><br>
    <p> Experiência básica em : </p>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
-   <img align="center" alt="karina-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
+   <img align="center" alt="logo javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+   <img align="center" alt="logo html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
+   <img align="center" alt="logo css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"/>
+   <img align="center" alt="logo vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg"/>
+   <img align="center" alt="logo postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
+   <img align="center" alt="logo git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
    <img  height="200" width="300" align="right" src="https://github.com/karinafukuda/imagens_projetos/blob/main/tumblr_nobara.gif"/>
 </div> 
 
