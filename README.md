@@ -1,14 +1,11 @@
 
 ## Bem-vindx! 
 
-### Sobre mim: 
+#### Sobre mim: 
 
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/student-female.png"/>__Estudante em Análise e Desenvolvimento de Sistemas && Projetos de Aplicativos Móveis Multiplataforma </p>
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/smart-home-connection.png"/>__ABC Paulista | Brasil </p>
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/goal.png"/>__Focada na trilha Front-end</p>
- 
- 
-##
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karinafukuda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
@@ -54,6 +51,7 @@
  ##
  
    <em>"Lutando sempre contra a imposição da vida, pois de todos os lugares que me disseram que eu não chegaria, eu cheguei lá. E estou sempre seguindo em frente!"</em>
+   ###### Autor: Eu mesma, fã de animes,'entendedores' entenderão. 
 
   </div>
 
