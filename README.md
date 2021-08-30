@@ -28,6 +28,7 @@
   
 </div> 
 <div style="display: inline_block"><br>
+   
    <p> Experiência básica em: </p>
    <img align="center" alt="logo javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    <img align="center" alt="logo html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>
@@ -36,7 +37,7 @@
    <img align="center" alt="logo postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
    <img align="center" alt="logo bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"/>
    <img align="center" alt="logo git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
-   <img  height="200" width="300" align="right" src="https://github.com/karinafukuda/imagens_projetos/blob/main/tumblr_nobara.gif"/>
+
 </div> 
 
 ##
