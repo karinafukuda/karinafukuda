@@ -1,7 +1,7 @@
 
 ## Bem-vindx! 
 
-#### Sobre mim: 
+### Sobre mim: 
 
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/student-female.png"/>__Estudante em Análise e Desenvolvimento de Sistemas && Projetos de Aplicativos Móveis Multiplataforma </p>
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/smart-home-connection.png"/>__ABC Paulista | Brasil </p>
@@ -13,15 +13,11 @@
 
 </div>
 
-##
 
-
-    
-  <div>
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinafukuda&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
+ <div style="display: inline_block" align="center" ><br>
+   <div>
+    <img height="180em" right="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinafukuda&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
   </div>
-
- <div style="display: inline_block" "float: right" ><br>
    <p> Tenho interesse em me aprofundar em: </p>
    <img align="center" alt="logo javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    <img align="center" alt="logo typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
@@ -33,7 +29,7 @@
    <img align="center" alt="logo angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"/>
    
 </div> 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"  align="center"><br>
    
    <p> Experiência básica em: </p>
    <img align="center" alt="logo javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
@@ -48,7 +44,7 @@
 
 ##
 
-<div>
+<div align="center" >
    <a href="https://www.linkedin.com/in/karina-f-859339bb/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="mailto:karinarfukuda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
    <a href="https://discord.gg/3ceJgTuh" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
