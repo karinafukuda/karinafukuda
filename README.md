@@ -8,13 +8,20 @@
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/goal.png"/>__Focada na trilha Front-end</p>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karinafukuda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinafukuda&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=karinafukuda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=karinafukuda&theme=nightowl" alt="karina fukuda" />
+
 </div>
 
 ##
 
-<div style="display: inline_block"><br>
+
+    
+  <div>
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinafukuda&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
+  </div>
+
+ <div style="display: inline_block" "float: right" ><br>
    <p> Tenho interesse em me aprofundar em: </p>
    <img align="center" alt="logo javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    <img align="center" alt="logo typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
@@ -24,7 +31,7 @@
    <img align="center" alt="logo vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg"/>
    <img align="center" alt="logo node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
    <img align="center" alt="logo angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"/>
-  
+   
 </div> 
 <div style="display: inline_block"><br>
    
