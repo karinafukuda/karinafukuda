@@ -1,7 +1,7 @@
 
 
 <div align="center">
- <h1> Bem-vindx!  </h1>
+ <h1> Bem-vinda(o)!  </h1>
  
  <h3> Sobre mim: </h3>
 
