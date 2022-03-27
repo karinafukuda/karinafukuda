@@ -14,7 +14,7 @@
     <a href="https://www.instagram.com/karina_fukuda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   </h1> 
  
- <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/code.png"/>__Oi, Sou a Karina Fukuda!</p>
+ <p> <img src="https://img.icons8.com/ios-glyphs/10/4a90e2/code.png"/>__Oi, Sou a Karina Fukuda!</p>
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/student-female.png"/>__Estudante em Análise e Desenvolvimento de Sistemas </p>
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/smart-home-connection.png"/>__Moro em: SP | Brasil </p>
  <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/computer.png"/>__Tenho experiência com: Javascript, C#, PostgreSQL, Bootstrap, HTML, CSS e Git</p>
