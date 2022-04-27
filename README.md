@@ -14,7 +14,7 @@
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/student-female.png"/>__Estudante em Análise e Desenvolvimento de Sistemas <br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/smart-home-connection.png"/>__SP | Brasil<br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/computer.png"/>__Analista de Engenharia de Software Jr na @Inmetrics <br><br>
-       <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/goal.png"/>__Focada na trilha Front-end : 
+       <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/goal.png"/>__Front-end / Iniciando Mobile : 
        <img alt="logo javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
        <img alt="logo typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
        <img  alt="logo angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"/>
@@ -25,7 +25,7 @@
        <img  alt="logo bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
        <img  alt="logo node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> 
        <img  alt="logo git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-       <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+       <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
        <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
        <br>
      </p>
