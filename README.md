@@ -7,6 +7,7 @@
         <a href="https://discord.gg/3ceJgTuh" target="_blank">
        <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/karina_fukuda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <img height="29" src="https://www.codewars.com/users/karinafukuda/badges/micro" target="_blank"/>
  </h1> 
   
  <div align="left"> 
