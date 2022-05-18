@@ -32,10 +32,10 @@
      </p>
   </div>
   
- <div align="center"> 
+<!-- <div align="center"> 
    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=karinafukuda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
    <img height="180em" right="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karinafukuda&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
- </div>
+ </div> -->
  
 ---
 
