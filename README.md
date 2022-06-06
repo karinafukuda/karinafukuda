@@ -13,7 +13,7 @@
     <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/code.png"/>__Oi, Sou a Karina Fukuda! <br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/student-female.png"/>__Estudante em Análise e Desenvolvimento de Sistemas <br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/smart-home-connection.png"/>__SP | Brasil<br><br>
-       <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/computer.png"/>__Software Developer Android Mobile na MELI <br><br>
+       <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/computer.png"/>__Software Developer Mobile Android na MELI <br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/goal.png"/>__Mobile & Frontend: 
        <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
        <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
