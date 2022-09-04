@@ -13,7 +13,7 @@
     <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/code.png"/>__Oi, Sou a Karina Fukuda! <br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/student-female.png"/>__Estudante em Análise e Desenvolvimento de Sistemas <br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/smart-home-connection.png"/>__SP | Brasil<br><br>
-       <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/computer.png"/>__Software Developer Mobile Android na MELI <br><br>
+       <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/computer.png"/>__Software Developer Mobile Android no MELI <br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/goal.png"/>__Mobile & Frontend: 
        <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
        <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/>
@@ -30,10 +30,10 @@
      </p>
   </div>
   
-<div align="center"> 
+<!--<div align="center"> 
    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=karinafukuda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
    <img height="180em" right="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinafukuda&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
- </div> 
+ </div>  -->
  
 
 
