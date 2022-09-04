@@ -12,6 +12,7 @@
  <div align="left"> 
     <p> <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/code.png"/>__Oi, Sou a Karina Fukuda! <br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/student-female.png"/>__Estudante em Análise e Desenvolvimento de Sistemas <br><br>
+       <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/student-female.png"/>__Formada em Tecnologia em Marketing && Pós em Projetos de App Móveis Multiplataforma <br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/smart-home-connection.png"/>__SP | Brasil<br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/computer.png"/>__Software Developer Mobile Android no MELI <br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/goal.png"/>__Mobile & Frontend: 
@@ -35,8 +36,6 @@
    <img height="180em" right="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinafukuda&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
  </div>  -->
  
-
-
 <!-- <div align="center">
   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=karinafukuda&theme=nightowl" alt="karina fukuda" /> 
 </div> -->
