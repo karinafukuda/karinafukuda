@@ -11,7 +11,7 @@
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/student-female.png"/>__Formada em Tecnologia em Marketing && Pós em Projetos de App Móveis Multiplataforma <br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/smart-home-connection.png"/>__SP | Brasil<br><br>
        <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/computer.png"/>__Software Developer Mobile Android no MELI <br><br>
-       <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/goal.png"/>__Mobile & Frontend: 
+       <img src="https://img.icons8.com/ios-glyphs/20/4a90e2/goal.png"/>__Frontend: Mobile & Web: 
        <img  alt="logo kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
        <img  alt="logo android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/>
        <img alt="logo typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
