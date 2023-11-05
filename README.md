@@ -34,9 +34,3 @@
 | **Frameworks e bibliotecas** | Angular, Angular Material, Bootstrap |
 | **Controle de versão** | Git, GitHub, GitLab |
 | **Outras ferramentas** | Figma, Jira, Trello |
-
-<!--- <div align="center"> 
-   <img height="180em" width="350px" right="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinafukuda&hide=scss&layout=compact&langs+count=16&theme=nightowl"/>
-   <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api?username=karinafukuda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-   <img height="180em" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=karinafukuda&theme=nightowl" alt="karina fukuda" /> 
-</div>  -->
