@@ -35,5 +35,6 @@
 |---|---|
 | **Linguagens de programação** | Kotlin, Java, JavaScript |
 | **Frameworks e bibliotecas** | Angular, Angular Material, Bootstrap |
+| **Testes** | MockK, Mockito, JUnit, Robolectric e Appium |
 | **Controle de versão** | Git, GitHub, GitLab |
 | **Outras ferramentas** | Figma, Jira, Trello |
