@@ -1,6 +1,4 @@
-# Ka_Fukuda 
-
-**👋** Olá, sou a Karina, que bom te receber aqui!
+## **👋** Olá, sou a Karina, que bom te receber aqui!
 
 **Sobre mim:**
 
@@ -29,6 +27,7 @@
 
 * **Analista :brain:** Eu sou uma desenvolvedora analítica.
 * **Experiência do usuário :smiley:** Eu estou focada em criar experiências de usuário positivas.
+* **Qualidade 🧪** Trabalho com preocupação na melhoria, legibilidade, código limpo, testes e simplicidade.
 
 **💻** Tecnologias:
 
