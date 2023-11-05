@@ -31,7 +31,7 @@
 
 **💻** Tecnologias:
 
-| **Título** | **Tecnologias** |
+| **Categoria** | **Títulos** |
 |---|---|
 | **Linguagens de programação** | Kotlin, Java, JavaScript |
 | **Frameworks e bibliotecas** | Angular, Angular Material, Bootstrap |
