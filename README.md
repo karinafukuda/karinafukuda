@@ -1,6 +1,6 @@
-# Ka Fukuda 
+# Ka_Fukuda 
 
-**👋** Olá, que bom te receber aqui!
+**👋** Olá, sou a Karina, que bom te receber aqui!
 
 **Sobre mim:**
 
@@ -19,12 +19,16 @@
 
 **🎓** Formação:
 
-| **Nível** | **Título** | **Instituição** | **Datas** |
-|---|---|---|---|
-| Superior | Tecnólogo| Marketing | UNINOVE | 2019 - 2021 |
-| Superior | CST | Análise e Desenvolvimento de Sistemas | UNINOVE | 2021 - 2023 |
-| Pós-graduação | Lato Sensu | Desenvolvimento de Aplicativos Móveis | Descomplica | 2021 - 2022 |
+| **Nível** | **Título** | **Curso** | **Instituição** | **Datas** |
+|---|---|---|---| --- |
+| Superior | Tecnólogo| Marketing | UNINOVE | 2019 ~ 2021 |
+| Superior | CST | Análise e Desenvolvimento de Sistemas | UNINOVE | 2021 ~ 2023 |
+| Pós-graduação | Lato Sensu | Desenvolvimento de Aplicativos Móveis | Descomplica | 2021 ~ 2022 |
 
+**Perfil [ Dev ]:**
+
+* **Analista :brain:** Eu sou uma desenvolvedora analítica.
+* **Experiência do usuário :smiley:** Eu estou focada em criar experiências de usuário positivas.
 
 **💻** Tecnologias:
 
