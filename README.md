@@ -25,7 +25,7 @@
 
 **Perfil [ Dev ]:**
 
-* **Analista :brain:** Eu sou uma desenvolvedora analítica.
+* **Analista :brain:** Eu sou uma desenvolvedora analítica penso em problemas, soluções e impacto.
 * **Experiência do usuário :smiley:** Eu estou focada em criar experiências de usuário positivas.
 * **Qualidade 🧪** Trabalho com preocupação na melhoria, legibilidade, código limpo, testes e simplicidade.
 
