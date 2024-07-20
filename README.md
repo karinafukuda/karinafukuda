@@ -2,7 +2,7 @@
 
 **Sobre mim:**
 
-* Sou mãe de um filho de 14 anos 👦
+* Sou mãe de um adolescente lindo 👦
 * Tenho 34 anos :birthday:
 * Amo minha família :heart: e a praia 🏖️
 * Tenho AHSD :brain:
