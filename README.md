@@ -21,7 +21,7 @@
 |---|---|---|---| --- |
 | Superior | Tecnólogo| Marketing | UNINOVE | 2019 ~ 2021 |
 | Superior | CST | Análise e Desenvolvimento de Sistemas | UNINOVE | 2021 ~ 2023 |
-| Pós-graduação | Lato Sensu | Desenvolvimento de Aplicativos Móveis | Descomplica | 2021 ~ 2022 |
+| Pós-graduação | Lato Sensu | Engenharia de Software para Dispositivos Móveis | UNINTER | 2024 ~ atual |
 
 **Perfil [ Dev ]:**
 
