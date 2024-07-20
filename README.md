@@ -5,7 +5,7 @@
 * Sou mãe de um filho de 14 anos 👦
 * Tenho 34 anos :birthday:
 * Amo minha família :heart: e a praia 🏖️
-* Tenho AH/SD :brain:
+* Tenho AHSD :brain:
 
 **📍** Localização: SP - Brasil
 
