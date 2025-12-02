@@ -3,7 +3,7 @@
 **Sobre mim:**
 
 * Sou mãe de um adolescente lindo 👦
-* Tenho 34 anos :birthday:
+* Tenho 36 anos :birthday:
 * Amo minha família :heart: e a praia 🏖️
 * Tenho AHSD :brain:
 
@@ -21,7 +21,7 @@
 |---|---|---|---| --- |
 | Superior | Tecnólogo| Marketing | UNINOVE | 2019 ~ 2021 |
 | Superior | CST | Análise e Desenvolvimento de Sistemas | UNINOVE | 2021 ~ 2023 |
-| Pós-graduação | Lato Sensu | Engenharia de Software para Dispositivos Móveis | UNINTER | 2024 ~ atual |
+| Pós-graduação | Lato Sensu | Engenharia de Software para Dispositivos Móveis | UNINTER | 2024 ~ 2025 |
 
 **Perfil [ Dev ]:**
 
@@ -38,3 +38,4 @@
 | **Testes** | MockK, Mockito, JUnit, Robolectric e Appium |
 | **Controle de versão** | Git, GitHub, GitLab |
 | **Outras ferramentas** | Figma, Jira, Trello |
+
